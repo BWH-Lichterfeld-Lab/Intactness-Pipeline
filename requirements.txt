@@ -1,0 +1,10 @@
+biopython
+reportlab
+MechanicalSoup=0.11.0
+lxml
+PyPDF2
+scipy
+
+# External binaries
+blast
+muscle
